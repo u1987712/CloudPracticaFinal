@@ -1,3 +1,0 @@
-<?php
-    define('AZURE_API_KEY', 'BTszoD2Zflr9fGjVixgRweOYQ8zn3FasFOeYgZV3XGhNVZyn1zQSJQQJ99BDACHYHv6XJ3w3AAAAACOGzBIi');
-?>
