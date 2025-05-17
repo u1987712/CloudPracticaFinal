@@ -1,0 +1,9 @@
+# .htaccess
+<Files "secrets.php">
+    Order allow,deny
+    Deny from all
+</Files>
+<Files "connection.php">
+    Order allow,deny
+    Deny from all
+</Files>
